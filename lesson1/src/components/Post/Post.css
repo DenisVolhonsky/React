@@ -1,0 +1,9 @@
+.Post {
+    width: 300px;
+    border: 1px solid slateblue;
+    margin: 20px;
+    padding: 5px;
+}
+.Post__img, .Post__text {
+    width: 300px;
+}
