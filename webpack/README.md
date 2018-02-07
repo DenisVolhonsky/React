@@ -1,4 +1,4 @@
-// создаем webpack.config.js
+// создаем webpack.config.js 
 // npm init - инициализируем проект
 // npm i webpack -g - устанавливаем вебпак глобально
 // npm i webpack --save-dev - устанавливаем вебпак локально
